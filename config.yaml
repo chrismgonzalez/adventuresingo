@@ -1,7 +1,6 @@
 baseurl: "https://adventuresingo.com"
 languageCode: "en-us"
 title: "Adventures in Go"
-theme: "hugo-tania"
 paginate: 6
 
 params:
