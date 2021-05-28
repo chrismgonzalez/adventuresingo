@@ -14,9 +14,6 @@ menu:
   header:
     - name: Articles
       url: "/articles/"
-  footer:
-    - name: RSS
-      url: "/index.xml"
 
 markup:
   highlight:
