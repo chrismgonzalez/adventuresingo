@@ -20,3 +20,5 @@ themes/hugo-tania/exampleSite
 resources/
 
 # Backup Files
+# Local Netlify folder
+.netlify
