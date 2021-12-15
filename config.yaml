@@ -1,13 +1,12 @@
 baseurl: "https://adventuresingo.com"
 languageCode: "en-us"
 title: "Adventures in Go"
-theme: "hugo-tania"
 paginate: 6
 
 params:
   socialOptions:
     github: https://github.com/chrismgonzalez
-    email: chris@cmgsoftwaresolutions.com
+    email: chris@cmgsoftwaresolutions.co
     dev-to: https://dev.to/chrismgonzalez
 
 menu:
