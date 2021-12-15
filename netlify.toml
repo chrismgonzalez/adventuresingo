@@ -1,11 +1,10 @@
 [build]
-
-    publish = "adventuresingo/public"
+    publish = "public"
     command = "hugo --gc --minify"
 
 [build.environment]
-    HUGO_VERSION = "0.83.1"
-    HUGO_THEME = "repo"
+    HUGO_VERSION = "0.90.1"
+    HUGO_THEME = "hugo-tania"
 
 [context.production]
     command = "cd adventuresingo && hugo --gc --themesDir ../.. -b ${URL}"

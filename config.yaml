@@ -6,7 +6,7 @@ paginate: 6
 params:
   socialOptions:
     github: https://github.com/chrismgonzalez
-    email: chris@cmgsoftwaresolutions.com
+    email: chris@cmgsoftwaresolutions.co
     dev-to: https://dev.to/chrismgonzalez
 
 menu:
